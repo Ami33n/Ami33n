@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ami33n
+- 👋 Hi, I’m Muhammed Ameen
 - 👀 I’m interested in Cyber Security and Pen Testing.
 - 🌱 I’m currently learning Penetration Testing.
 
